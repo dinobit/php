@@ -1,0 +1,14 @@
+{
+    "name": "dinobit/composer",
+    "description": "Teste composer",
+    "authors": [
+        {
+            "name": "Thiago Andrey chipset Ferreira",
+            "email": "thiagoandrey.chip@gmail.com"
+        }
+    ],
+    "require": {
+    	"monolog/monolog":"1.0.*"
+
+    }
+}
